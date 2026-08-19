@@ -29,7 +29,7 @@ Software Engineering student from Pakistan building a career in **Data Engineeri
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [OpsPulse Azure ETL](https://github.com/Shahzaman-Jalil/opspulse-azure-etl) | Moves 2.9M+ rows to Azure Data Lake — incremental loading, logging, failure handling | Python · ADLS Gen2 · Azure |
-| [Azure ADF Pipeline](https://github.com/Shahzaman-Jalil/azure-adf-project) | On-Prem → Cloud migration with dynamic pipelines and Storage Event Triggers | ADF · ADLS Gen2 · Azure SQL |
+| [Azure ADF Pipeline](https://github.com/Shahzaman-Jalil/azure-data-facttory-medallion-etl) | On-Prem → Cloud migration with dynamic pipelines and Storage Event Triggers | ADF · ADLS Gen2 · Azure SQL |
 | [Docker + PostgreSQL ETL](https://github.com/Shahzaman-Jalil/docker-postgres-etl) | Multi-container ETL — Python + PostgreSQL running with one command | Docker · Compose · Python |
 | [SQL Data Warehouse](https://github.com/Shahzaman-Jalil/sql-data-warehouse-project) | Production-grade DWH with Medallion Architecture and analytical queries | SQL Server · ETL · Data Modeling |
 | [OpsPulse NYC Taxi](https://github.com/Shahzaman-Jalil/opspulse-nyc-taxi) | Local ETL on 2.8M rows — Bronze/Silver layers, PostgreSQL, pytest validation | Python · PostgreSQL · Pandas |
