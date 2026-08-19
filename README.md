@@ -97,14 +97,6 @@ Software Engineering student from Pakistan building a career in **Data Engineeri
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman-Jalil&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
   <i>Always learning, always building.</i>
 </p>
